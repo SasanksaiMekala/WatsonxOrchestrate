@@ -1,7 +1,19 @@
 WatsonXOrchestrate Challenge 
 
+Watson orchestrate is an unique platform where we have created an entire process within no time with the inbuilt capabilities it has.
+First we have created the skill which acts as piece of work in the entire process. These skills are the reusable components which can be leveraged across the processes.
+We have created two types of skills which is of normal and composite. The normal skills are created by uploading the json file and then configuring the properties like Skill enhancement, Next best skill e.t.c... Composite skill is a combination of skill which can be designed into flow which acts as a crucial point to build the logics for the entire process.
+We then configured the custom skill which are available predefined from Watson orchestrate like Gmail skill to send out emails which make our lifes easier.
+
+
+IBM Watsonx.ai helps us to Automate Business Process Flows such as 
+Data Entry and Processing , Supply Chain Management, Healthcare Automation, Smart Home Automation, HR Automation, Inventory Management, Retail Inventory and so on
+
+Use Case - Sales Management 
+In our Challenge we had Automated  Sales Manager roles where the Opportunities can be fetched , Quotations ane be Generated with discounts with Sending the Quotation to Customer using Mail Skills
+
 Flows Created - 2
 Product Specific skills - 6
-Composite Skills -2
+Composite Skills - 2
 
-IBM Watsonx.ai helps us to Automate Business Process Flows 
+Watson orchestrate is one most feasible tools to build any processes which can communicate with various applications in the run time and also helps in creating unified forms/dashboards for user prompts to have an finest interaction with the user and flow
